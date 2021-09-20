@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1632158124 source:c:\users\shootka\desktop\ка7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"student.h"
+
+1632153770 c:\users\shootka\desktop\ка7\student.h
+
+1632157593 source:c:\users\shootka\desktop\ка7\student.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+
