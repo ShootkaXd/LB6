@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1630495625 source:c:\users\shootka\desktop\string17\main.cpp
+	<iostream>
+	<locale>
+	<string>
+	<cctype>
+
