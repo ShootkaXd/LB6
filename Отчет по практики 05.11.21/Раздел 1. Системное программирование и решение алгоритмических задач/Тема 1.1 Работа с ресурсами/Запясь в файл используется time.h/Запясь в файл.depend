@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610888731 source:c:\users\shootka\desktop\программирование xd\Запясь в файл\main.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+

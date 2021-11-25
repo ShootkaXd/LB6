@@ -1,0 +1,6 @@
+D:\Проекты\Kalkulator\Kalkulator\Debug\Kalkulator.vcxproj.AssemblyReference.cache
+D:\Проекты\Kalkulator\Kalkulator\Debug\Kalkulator.MyForm.resources
+D:\Проекты\Kalkulator\Kalkulator\Debug\Kalkulator.vcxproj.GenerateResource.cache
+C:\Users\Shootka\Desktop\Отчет по практики 05.11.21\Раздел 3. Работа с текстом\Kalkulator\Kalkulator\Debug\Kalkulator.vcxproj.AssemblyReference.cache
+C:\Users\Shootka\Desktop\Отчет по практики 05.11.21\Раздел 3. Работа с текстом\Kalkulator\Kalkulator\Debug\Kalkulator.MyForm.resources
+C:\Users\Shootka\Desktop\Отчет по практики 05.11.21\Раздел 3. Работа с текстом\Kalkulator\Kalkulator\Debug\Kalkulator.vcxproj.GenerateResource.cache
