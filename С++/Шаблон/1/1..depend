@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621697560 source:c:\users\shootka\desktop\Новая папка\main.cpp
+	<iostream>
+	<cstring>
+	<locale>
+

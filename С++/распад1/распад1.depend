@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622649248 source:c:\users\shootka\desktop\распад1\main.cpp
+	<iostream>
+	<array>
+	<algorithm>
+	<locale>
+
